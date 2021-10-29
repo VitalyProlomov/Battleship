@@ -7,3 +7,7 @@ Firstly, you choose the mode to play:
 Then you input amount of rows and columnes for the field.
 After that you input a line of 5 integers seperated by 1 space each.
 Then (if ship generation was successful) you might also turn on TESTING MODE - to see generated ships` locations.
+Afterwards you can start shooting, entering coordinates as such: "row column" 
+example: 0 4
+You win when you destroy all enemy`s ships. Then program suggests you two options: to leave or paly again.
+Note: you can exit the game at any given moment during the game.
